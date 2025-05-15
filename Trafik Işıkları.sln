@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trafik Işıkları", "Trafik Işıkları\Trafik Işıkları.csproj", "{BC3EADD6-85CF-4776-B09A-F890B9F3AA08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC3EADD6-85CF-4776-B09A-F890B9F3AA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3EADD6-85CF-4776-B09A-F890B9F3AA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3EADD6-85CF-4776-B09A-F890B9F3AA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3EADD6-85CF-4776-B09A-F890B9F3AA08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3935A01-BFEA-4978-B352-A644BF9CA67F}
+	EndGlobalSection
+EndGlobal

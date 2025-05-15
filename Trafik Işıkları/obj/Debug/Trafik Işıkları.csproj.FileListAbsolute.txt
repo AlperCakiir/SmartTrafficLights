@@ -1,0 +1,10 @@
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.exe.config
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.exe
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\bin\Debug\Trafik Işıkları.pdb
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.AssemblyReference.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik_Işıkları.Form1.resources
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik_Işıkları.Properties.Resources.resources
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.GenerateResource.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.csproj.CoreCompileInputs.cache
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.exe
+C:\Users\alper\OneDrive\Masaüstü\GP1 Vize Çalışmaları\Trafik Işıkları\Trafik Işıkları\obj\Debug\Trafik Işıkları.pdb
