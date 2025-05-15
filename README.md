@@ -30,7 +30,6 @@ Bu proje, zaman tabanlı işlemleri öğrenmek, kullanıcı arayüzü (UI) ile e
 
 ---
 
-## 📸 Ekran Görüntüsü (Opsiyonel)
 
 Projeyi çalıştırdığınızda, butonların sırasıyla **renk değiştirdiğini** ve kalan süreyi sayarak görsel bir trafik ışığı gibi davrandığını görebilirsiniz.
 
